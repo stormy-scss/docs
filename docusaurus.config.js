@@ -47,10 +47,10 @@ module.exports = {
         {
           title: 'Links',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
+            // {
+            //   label: 'Blog',
+            //   to: '/blog',
+            // },
             {
               label: 'GitHub',
               href: 'https://github.com/stormy-scss/stormy',
@@ -69,7 +69,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/stormy-scss/docs/edit/master/website/',
+            'https://github.com/stormy-scss/docs/edit/main/website',
           routeBasePath: "/"
         },
         // blog: {
