@@ -30,4 +30,4 @@ Stormy is guaranteed to work with Vite because it's our development server, it m
 }
 ```
 
-The rest of the docs will assume you used Stormy as `@use "stromy-scss" as stormy;`, and any submodules as `@use "stormy-scss/<submodule>" as stormy-<submodule>;`
+The rest of the docs will assume you used Stormy as `@use "stormy-scss" as stormy;`, and any submodules as `@use "stormy-scss/<submodule>" as stormy-<submodule>;`
