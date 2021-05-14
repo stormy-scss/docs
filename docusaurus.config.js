@@ -69,7 +69,7 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/stormy-scss/docs/edit/main/website',
+            'https://github.com/stormy-scss/docs/edit/main',
           routeBasePath: "/"
         },
         // blog: {
