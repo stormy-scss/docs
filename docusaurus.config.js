@@ -12,10 +12,10 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: 'Stormy',
-      // logo: {
-      //   alt: 'Stormy Logo',
-      //   src: 'img/logo.svg',
-      // },
+      logo: {
+        alt: 'Stormy Logo',
+        src: 'img/logo.svg',
+      },
       items: [
         {
           type: 'doc',
