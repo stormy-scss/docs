@@ -7,7 +7,7 @@ module.exports = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'stromy-scss', // Usually your GitHub org/user name.
+  organizationName: 'stormy-scss', // Usually your GitHub org/user name.
   projectName: 'stormy', // Usually your repo name.
   themeConfig: {
     navbar: {
