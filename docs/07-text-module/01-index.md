@@ -4,7 +4,7 @@ sidebar_label: Module info
 
 # Text module
 
-The text module contains text size, alignment, and container mixins (not to be confused with [the container module](../container-module/index))
+The text module contains text size, alignment, container mixins and more (container mixins not to be confused with [the container module](../container-module/index))
 
 To use it, write `@use "stromy-scss/text" as stromy-text;` and `@include` the mixins.
 
